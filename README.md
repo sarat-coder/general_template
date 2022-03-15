@@ -1,1 +1,1 @@
-# general_yemplate
+# general_template
